@@ -54,7 +54,7 @@ int main() {
             tab = 1;
         }
     }
-    printf("SALUT BENOIT:\n");
+    printf("SALUT Ludo:\n");
 
     for(int x = 0; x < taille; x++)
     {
